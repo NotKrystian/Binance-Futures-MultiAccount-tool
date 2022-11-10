@@ -1,0 +1,14 @@
+{
+    "credentials" : [
+        {
+	"LABEL" : "1",
+	"API_KEY": "",
+        "API_SECRET": ""
+        },
+	{
+	"LABEL" : "2",
+	"API_KEY": "",
+        "API_SECRET": ""
+        }
+    ]
+}

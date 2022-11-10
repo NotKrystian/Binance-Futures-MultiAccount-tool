@@ -1,0 +1,2 @@
+node balances.js
+pause

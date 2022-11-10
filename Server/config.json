@@ -1,0 +1,64 @@
+{
+    "credentials" : [
+        {
+            "LABEL" : "DB1",
+            "API_KEY": "OUEQFPl1Vo5aeGVFO3ef5m5lI7BS1MKQZwYgvmORSstha8Z0JOnPcIYxYAXhrqTR",
+            "API_SECRET": "QnQTvHrv6Xv4V1y5hMzTubGC6X97N9RYUDwTePCyOeHRVn45YKhqEwT6Fnnq0dfD"
+        },
+        {
+            "LABEL": "DB2",
+            "API_KEY": "YUOXZefCtFCUgJojxduOueLusYRTsvPoXDz36A8JJYHrEGbtQqaz87Qhplpu6dkf",
+            "API_SECRET": "yv2Jm9qt6sAfDcM8VlYanQXeRgAIcE9UrI8HaKn8N3HpKAoSWVu8OvNWmd1QSI8a"
+        },
+        {
+            "LABEL": "DB3",
+            "API_KEY": "RY7nFESnXonwHOY1htbiYN0esJR8d9fcOmUAiUmeZE6LIBWUAXolTbVIfGxEwqG1",
+            "API_SECRET": "HCqWoM9xmfo97EsvIOXkOygPI7bPkKmUiylB9KsKekNjhcMtddNW0g4EhBWih6si"
+        },
+        {
+            "LABEL": "DB4",
+            "API_KEY": "kZJ6RTQJeG5z7UL9NQykVLFIpmO6PTR4T05483a4Tzu6SJ7o7OX7UEh49VsQmPTi",
+            "API_SECRET": "57XUlDxcKSFeAGgcrjaBRNNiHncKSjjdVqTlo7ioq9g0JIEWVLxR2NeBpveVQOig"
+        },
+        {
+            "LABEL": "DB5",
+            "API_KEY": "gCoNWv2OWiPfVfjCX8qU1GZneHWR2svlWmHInYBjHHEncqt8kAWeqvSFCo61CRs9",
+            "API_SECRET": "ipyN3EjgSFPRyDTuc2uluLk71dp123rEMWW2XCdyx5aYutH6QpciWqJXnhToYL3X"
+        },
+        {
+            "LABEL": "DB6",
+            "API_KEY": "GHxanCndadK2GE2nQo9wZoZdoR7xiLRFMXJGDUg48ZaCpOkwRs61YIw2MK6fmWQE",
+            "API_SECRET": "DysVupkDUXlXbABxhcU2sN4hywQf29YYyKYoks89s0RzdJV05RxyB2x56gCof9pI"
+        },
+        {
+            "LABEL": "DB7",
+            "API_KEY": "yjwblaZORPngzwZJc5RJbcX14mfaKbNh6oo6EoW1LMeitD7oWcMaB7Vs6WmPfUUj",
+            "API_SECRET": "GmKcG0sSgU3j4QiGGupcouIPMd39NgjiuxgQDEWUmMZ8YwQZf2oK77VBDJAcj0bt"
+        },
+        {
+            "LABEL": "DB8",
+            "API_KEY": "ThM1yuCBZZS1PxBKf9YpRPJg8ELflZNUIe9OP6chdFSWwNL7Abr0yUG3zwxO5hMB",
+            "API_SECRET": "zsvxuesFT9XL16g3zhSJlvKJ0i7ohKBP8mH7tMh6icHJc26rbV2Emlqeuzk0HmbO"
+        },
+        {
+            "LABEL": "DB9",
+            "API_KEY": "wLR2WJaUe5AmVHHEcV7dRu39WLE3YMla2VsWoo1a1JG5oAExTDZgFrDeEgXNf2pm",
+            "API_SECRET": "9XbZZKdCl88rd1kyGZ8vT3PnErNm0uFUANTFKVQpSTq5OUdMxqbr4SBYPOVLV20O"
+        },
+        {
+            "LABEL": "DB10",
+            "API_KEY": "NBS0dGQDnHzUtUYQ0lJ4XPSl3PJB198qpSwE8MuMmAgGwFfv7JXJgmHR9sZfNiOz",
+            "API_SECRET": "nzhtnQyWmeH5o8mZKDVxHqO6DH8AH0E5eHGAuXbsKw397HyFG81YV23rcY18IwUn"
+        },
+        {
+            "LABEL": "MAIN",
+            "API_KEY": "Vnxkx4wncJPaKo2R8iSefCHNE4XaCqyskzMQIphVMtmqRMGDG06jZCG2Cq3E3JOn",
+            "API_SECRET": "jn4eXeUFLBSkrz3DMNIvKG5RKDcmwtzaahTfkWxXH4sWqD7dAEv70INFu7b5Ymxr"
+        },
+        {
+            "LABEL": "ENEK",
+            "API_KEY": "XBcEmOLfJ61GViyAB30StLIHB6JVxvDUuPRGrqDGwl8NtjUn1URtBxedxMKVOhwk",
+            "API_SECRET": "Bj9mJz3F5lRuOkiuiIFB7vhYCN3fvsS3NPTehuwTDFANYx9CYPNrzBzbuhYOuKIH"
+        }
+    ]
+}
